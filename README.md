@@ -148,7 +148,7 @@ function submitToWhatsAppBackground(event) {
     // --- ULTRAMSG सेटिंग्स (यहाँ अपनी डिटेल्स डालें) ---
     const instanceId = "YOUR_INSTANCE_ID"; // Ultramsg से मिलेगा
     const token = "YOUR_TOKEN";           // Ultramsg से मिलेगा
-    const myNumber = "919876543210";       // आपका नंबर (91 के साथ)
+    const myNumber = "916200730782";       // आपका नंबर (91 के साथ)
 
     // बैकग्राउंड में मैसेज भेजने का API URL
     const url = `https://api.ultramsg.com/${instanceId}/messages/chat`;
